@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Calm-Smile
 - 👀 I’m interested in web development & mobile development 
 - 🌱 I’m currently learning Laravel & web/mobile security
-- 💞️ I’m looking to collaborate on ..
+- 💞️ I’m looking to collaborate on big development projects
 - 📫 How to reach me? contact me by email: malik6120@gmail.com
 
 <!---
